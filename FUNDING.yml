@@ -1,0 +1,11 @@
+# Example FUNDING.yml for JAM SESSIONS
+# Replace the URLs with your actual hosted links or GitHub Sponsors handle
+
+github: JAMSESSIONS27
+other:
+  - name: PayPal
+    url: https://www.paypal.com/donate?hosted_button_id=YOUR_BUTTON_ID
+  - name: Stripe
+    url: https://donate.stripe.com/your-link
+  - name: GiveLively
+    url: https://www.givelively.org/donate/your-page
